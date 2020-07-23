@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub 😁
+
+Here you will find some of the projects I work on in my free time. Most of which center around React an frontend development.
+
+Currently I'm working on improving my blogging, and writing more about the things I have created.
+
+You can read my technical blogs 📚[Liams Dev.to blogs](https://dev.to/liammyles/)📚
+
+If you want to see a more personal side 🌑[follow @LiamMyles92 on twitter](https://twitter.com/LiamMyles92)🌑
+
+And to see everything I have to share you can check out ✨[my personal website](https://liammyles.com)✨
 
 <!--
 **LiamMyles/liammyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

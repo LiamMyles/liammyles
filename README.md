@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 😁
 
-Here you will find some of the projects I work on in my free time. Most of which center around React an frontend development.
+Here you will find some of the projects I work on in my free time. Most of which center around React and frontend development.
 
 Currently I'm working on improving my blogging, and writing more about the things I have created.
 
